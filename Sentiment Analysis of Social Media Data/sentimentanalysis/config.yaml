@@ -1,6 +1,6 @@
 model_folder_path: 
-  - path: D:\Coding Raja Technologies Internship\Sentiment Analysis of Social Media Data\sentimentanalysis\models\model\
+  - path: D:\Coding raja Files\Coding Raja Technologies Internship\Sentiment Analysis of Social Media Data\sentimentanalysis\models\model\
 vectorizer_path: 
-  - path: D:\Coding Raja Technologies Internship\Sentiment Analysis of Social Media Data\sentimentanalysis\models\model\vectorizer.pkl
+  - path: D:\Coding raja Files\Coding Raja Technologies Internship\Sentiment Analysis of Social Media Data\sentimentanalysis\models\model\vectorizer.pkl
 dataset_path:
-  - path: D:\Coding Raja Technologies Internship\Sentiment Analysis of Social Media Data\sentimentanalysis\twitter_data.csv
+  - path: D:\Coding raja Files\Coding Raja Technologies Internship\twitter_data.csv
