@@ -1,3 +1,4 @@
 ./venv/
 *.csv
+*.yaml
 # Sentiment Analysis of Social Media Data/sentimentanalysis/twitter_data.csv
